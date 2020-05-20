@@ -1,0 +1,365 @@
+term,vocabulary_id,hateful_meaning,is_unambiguous,is_unambiguous_in,average_offensiveness,plural_of,variant_of,is_about_nationality,is_about_ethnicity,is_about_religion,is_about_gender,is_about_sexual_orientation,is_about_disability,is_about_class,number_of_sightings
+jewtarded,AfUHKcKtu,The combination of 'jew' and 'retarded',True,,98.0,,jewtard,False,True,True,False,False,True,False,1
+jigaboo,7e7d4zV6R,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,99.0,,,False,True,False,False,False,False,False,2465
+jewtard,m3hnwsCjb,The combination of 'jew' and 'retard',True,,99.0,,,False,True,True,False,False,True,False,14
+krauts,qWheZhmUE,"A German, most specifically during World War II. From Sauerkraut.",True,,,kraut,,True,False,False,False,False,False,False,486
+niggers,bWgz9jJed,A black person.,True,,100.0,nigger,,False,True,False,False,False,False,False,1079
+nigger,3wfWp8aQB,A black person.,True,,99.0,,,False,True,False,False,False,False,False,5386
+nigger-rig,FZLzRqPbD,To poorly repair or assemble something,True,,98.0,,,False,True,False,False,False,False,False,11
+durka durkas,XfyXhcwTY,,True,,,durka durka,derka derka,False,True,True,False,False,False,False,13
+durka durka,AYsdMFEPc,,True,,,,derka derka,False,True,True,False,False,False,False,34
+derka derkas,XTqrx9beD,,True,,,derka derka,,False,True,True,False,False,False,False,3
+closet dykes,rTiXRYQED,,True,,,closet dyke,closet fag,False,False,False,False,True,False,False,5
+closet dyke,uWzcbfz7a,,True,,50.0,,closet fag,False,False,False,False,True,False,False,29
+black dagoes,JUpgYbNiw,,True,,,black dago,black dagos,True,True,False,False,False,False,False,0
+border baby,qc6VTyKxJ,,True,,,,anchor baby,False,True,False,False,False,False,False,15
+border babies,ND9gokkqL,,True,,,border baby,anchor baby,False,True,False,False,False,False,False,7
+pickinninys,vsnYRahpZ,,True,,,pickinniny,,False,True,False,False,False,False,False,0
+piccaninnys,RJWjxxNtL,,True,,,piccaninny,,False,True,False,False,False,False,False,6
+piccaninnies,xUMRLtwiv,,True,,,piccaninny,,False,True,False,False,False,False,False,90
+picaninnys,qfapWDnww,,True,,100.0,,picaninnies,False,True,False,False,False,False,False,3
+pickaninnies,oDwcfmbdk,,True,,100.0,,pickaninnys,False,True,False,False,False,False,False,364
+pickinninies,EntJtHM6F,,True,,,pickinniny,,False,True,False,False,False,False,False,10
+pickinniny,isCycKTmX,,True,,,,picaninny,False,True,False,False,False,False,False,6
+piccaninny,KGhbbRVqZ,,True,,,,picaninny,False,True,False,False,False,False,False,100
+picaninnies,BUZsxDtj7,,True,,,pickaninny,,False,True,False,False,False,False,False,207
+picaninny,yVvMWnYnL,A black child,True,,,,,False,True,False,False,False,False,False,183
+smoke jumper,9f6AxHr39,A Caucasian woman who dates a black man.,True,,81.0,,,False,True,False,False,False,False,False,399
+niggerdick,xpXPgvbQc,"The penis of a man of African descent, or a person with a large penis; likely popularized online for shock value",True,,,,,False,True,False,False,False,False,False,22
+niggerdicks,DUmsUwboc,,True,,,niggerdick,,False,True,False,False,False,False,False,3
+niggerton,yrQisUkDo,A town or part of town containing majority black population,True,,,,,False,True,False,False,False,False,False,16
+niggertown,ftrnzUEbH,A town or part of town containing majority black population,True,,100.0,,,False,True,False,False,False,False,False,15
+niggerville,8nveQCoVU,A town or part of town containing majority black population,True,,97.0,,,False,True,False,False,False,False,False,64
+retarded,BkYxA4AFB,"A disabled person, from 'retarded'.",True,,64.0,,retard,False,False,False,False,False,True,False,1083
+shekelnose,CaoXkrFNd,"Combines two anti-Semitic stereotypes: that of Jewish greed (hence the reference to ""shekel"", the currency of historical and modern Israel) and that of having a large nose.",True,,100.0,,,False,True,True,False,False,False,False,0
+kikesberg,jjUUrQcqy,,True,,99.0,,kike,False,True,True,False,False,False,False,1
+pisslam,oBAmPQUNi,Derogatory portmanteau of 'piss' and 'islam',True,,100.0,,,False,False,True,False,False,False,False,384
+gender nigger,XpNDiLAz2,A transgender person,True,,99.0,,,False,False,False,True,False,False,False,2
+black dago,Q2cAUGjUq,[1] A Sicilian [2] A darker-skinned Italian [3] An Italian of allegedly African ancestry,True,,76.0,,,True,True,False,False,False,False,False,1
+Zionazi,6FZyrdUXX,"Contraction of Zionist and Nazi, making a false comparison between Jews who support Israel's right to exist and Nazis.",True,,86.0,,,True,True,True,False,False,False,False,2752
+sand niglet,HpgGojWdy,A child of Middle Eastern descent,True,,99.0,,,False,True,False,False,False,False,False,0
+sand niglets,DLFeCwJMW,A child of Middle Eastern descent,True,,,sand niglet,,False,True,False,False,False,False,False,0
+Zionazis,sEMTfxuxh,A Jew living in Israel,True,,,Zionazi,,True,False,True,False,False,False,False,309
+ZOG lovers,gitNpNAas,Used by white supremacists to denote one who is subservient to Jewish people.,True,,,ZOG lover,,False,True,False,False,False,False,False,1
+zigabos,QYqdHchmG,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,50.0,zigabo,,False,True,False,False,False,False,False,1
+ziojews,UsbtrtiyQ,Derogatory term for a Jewish zionist or those being accused of such,True,,,ziojew,,False,True,True,False,False,False,False,13
+yellow invaders,QoVZRw zv,Accusative term for refugees or immigrants from Asia,True,,,yellow invader,,False,True,False,False,False,False,False,0
+yids,EZQUVuQzZ,"A Jewish person, although it is an endonym among Yiddish-speaking Jews. (The term is also used positively in Britain for Tottenham Hotspur fans (often proudly by themselves, for example calling themselves 'the Yid Army'), which includes a large Jewish supporting base from north-east London.)",True,,,yid,,False,True,False,False,False,False,False,740
+yard apes,jUUBYKUKJ,A black person,True,,,yard ape,,False,True,False,False,False,False,False,19
+wogs,gmronnNyG,"A swarthy or dark-skinned foreigner. Possibly derived from 'golliwogg' In Britain, it usually refers to dark skinned people from Asia or Africa, though some use the term to refer to anyone outside the borders of their own country. In Australia the term 'wog' is usually used to refer to Mediterranean Europeans (Spaniards, Italians, and Greeks) although it can be used for some Eastern Europeans, particularly those of the Balkans (Bosnians, Macedonians, Serbians, Croatians, or Albanians).",True,,,wog,,True,True,False,False,False,False,False,950
+wops,HPytDzfra,"A person of Italian descent, derived from the Italian dialectism, 'guappo,' close to 'dude, swaggerer' and other informal appellations, a greeting among male Neapolitans.",True,,63.0,wop,,True,False,False,False,False,False,False,683
+wopspeak,tafapiusm,The Italian language,True,,96.0,,wop,False,True,False,False,False,False,False,0
+wiggas,Zmm2kVbjE,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,,wigga,,True,True,False,False,False,False,False,1338
+wiggerettes,KokCnGPcV,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,,wiggerette,,True,True,False,False,False,False,False,1
+wiggers,oxfgmefpr,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,,wigger,,True,True,False,False,False,False,False,142
+whiggers,Lq7fbfLtc,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,,whigger,,True,True,False,False,False,False,False,147
+white niggers, jUV4KZZt,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,,white nigger,,True,True,False,False,False,False,False,19
+wegroes,YhHYLhAMB,A white person who is acting like a black person,True,,,wegro,,False,True,False,False,False,False,False,5
+wetbacks,DVoCcFbTq,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,,wetback,,False,True,False,False,False,False,False,914
+wexicans,b2EWATroi,A person of mixed Caucasian and Mexican parentage.,True,,,wexican,,True,True,False,False,False,False,False,26
+whiggas,ypaTZ2vrR,A white person who is acting like a black person,True,,63.0,whigga,,False,True,False,False,False,False,False,126
+Uncle Toms,xsRQpaGf2,A black person perceived as behaving in a subservient manner to white authority figures.,True,,100.0,Uncle Tom,,False,True,False,False,False,False,False,513
+Velcro heads,ZCx7dvPTY,A black person (referencing stereotypical hair type).,True,,,Velcro head,,False,True,False,False,False,False,False,1
+wagon burners,pcGcvDVdd,A Native American person.,True,,,wagon burner,,False,True,False,False,False,False,False,36
+tree niggers,xMvg2UkAs,A Native American person,True,,100.0,tree nigger,,False,True,False,False,False,False,False,8
+towel heads,GuYiHDLgo,"An Arab, Indian Sikh or other individual of Middle Eastern or South Asian descent wearing traditional headdress such as turbans or keffiyehs. Sometimes used generically for all Islamic nations.",True,,,towel head,,False,True,False,False,False,False,False,594
+trannies,ZxmhaszCv,Plural of 'tranny',True,,75.0,tranny,,False,False,False,True,False,False,False,710
+timber niggers,MrfsxZVBM,A Native American.,True,,,timber nigger,,False,True,False,False,False,False,False,1
+taco niggers,bPnWdfTou,An Hispanic person,True,,,taco nigger,,False,True,False,False,False,False,False,2
+tar babies,FWDGGUctK,A black child.,True,,,tar baby,,False,True,False,False,False,False,False,197
+stump jumpers,y6fxUas7r,"Used by poor rural people to denote those of lower status than themselves, particularly those who commit incest (jumping the family tree).",True,,,stump jumper,,False,False,False,False,False,False,True,45
+spiggotties,pwhe4Loqx,"A person of Hispanic descent. First recorded use in 1915. Theories include from 'no spik English' (and spiggoty from the Chicano no speak-o t'e English), but common belief is that it is an abbreviation of 'Hispanic'.",True,,,spigotty,,False,True,False,False,False,False,False,0
+spicspeak,WdLkoEubk,The Spanish language,True,,100.0,,spic,False,True,False,False,False,False,False,0
+spiggers,Lbwq9fsvR,A person of mixed Hispanic and black parentage.,True,,,spigger,,False,True,False,False,False,False,False,6
+spickish,gZsoZPhxL,Adjective for the nature of 'spic',True,,91.0,,spick,False,True,False,False,False,False,False,0
+spiclet,XxyNieXqR,The diminuitive of 'spic',True,,75.0,,spic,False,True,False,False,False,False,False,1
+spicish,cRECvkMPL,Alternative spelling for adjective for the nature of 'spic',True,,99.0,,spic,False,True,False,False,False,False,False,6
+spickaboos,LW8MoCHom,A person of mixed Hispanic and black parentage.,True,,,spickaboo,,False,True,False,False,False,False,False,0
+spear chuckers,yYbvmedYn,"A term used for an African American, or other person of African descent.",True,,,spear chucker,,False,True,False,False,False,False,False,132
+spice niggers,FfWFkqEoi,A black person.,True,,100.0,spice nigger,,False,True,False,False,False,False,False,1
+smoke jumpers,ZbyMopdok,A Caucasian woman who dates a black man.,True,,,smoke jumper,,False,True,False,False,False,False,False,215
+smoked Irishmen,zDPNKZQXJ,A 19th century term for a black person (intended to insult both black people and Irish).,True,,,smoked Irishman,,True,True,False,False,False,False,False,0
+slant eyes,pVGfoJcrT,"A person of Asian origin (Chinese, Japanese, Korean, Vietnamese etc.) Derived from the term for those who have epicanthic folds.",True,,,slant eye,,False,True,False,False,False,False,False,79
+sideways vaginas,ntnTtkfis,"An Asian woman, particularly of Chinese descent.",True,,100.0,sideways vagina,,True,True,False,False,False,False,False,35
+sideways cooters,AxthmQzrx,"An Asian woman, particularly of Chinese descent.",True,,,sideways cooter,,True,True,False,False,False,False,False,1
+sideways pussies,VoKTKJMXA,"An Asian woman, particularly of Chinese descent.",True,,88.0,sideways pussy,,True,True,False,False,False,False,False,16
+shemales,WHmXNkkyw,[1] A transexual person. [2] A transgendered person. [3] An allegedly masculine woman.,True,,,shemale,,False,False,False,True,True,False,False,82
+sheboons,dKqHcPUkR,Combination of 'she' and 'baboon' to indicate a black woman,True,,,sheboon,,False,True,False,False,False,False,False,165
+sheenies,wZexgibhh,A 19th-century derogatory term for an 'untrustworthy Jew.',True,,,sheeny,,False,True,False,False,False,False,False,106
+sand nips,UkBn7KrLH,A person from the South Pacific,True,,,sand nip,,False,True,False,False,False,False,False,1
+sand niggerette,983CNmHJi,A person of Middle Eastern descent,True,,100.0,,sand nigger,False,True,False,True,False,False,False,1
+sand niggerettes,fHpddUbqJ,A person of Middle Eastern descent,True,,,sand niggerette,,False,True,False,True,False,False,False,0
+sand niggers,UhzaHDECb,"Derogatory term for a person from the Middle East, Arab, South Asian world",True,,,sand nigger,,True,True,False,False,False,False,False,326
+sambos,KffteAtys,A black person.,True,,,sambo,,False,True,False,False,False,False,False,627
+sand monkey,iMunK8cfz,Variant of 'sand nigger' in relation to inhabitants of desert regions or Arabs / Muslims in general,True,,84.0,,sand nigger,False,True,True,False,False,False,False,109
+sand monkeys,GkfnBnw4s,Variant of 'sand nigger' in relation to inhabitants of desert regions or Arabs / Muslims in general,True,,,sand monkey,,False,True,True,False,False,False,False,262
+rice niggers,TVZEjy7LJ,An Asian person,True,,,rice nigger,,False,True,False,False,False,False,False,5
+roofuckers,CoAXRzeHF,"Literally, kangaroo-fucker, an Australian iteration on 'sheepfucker'.",True,,100.0,roofucker,,True,True,False,False,False,False,False,0
+roundeyes,zVgeFNAHL,A white or non-Asian person.,True,,,roundeye,,False,True,False,False,False,False,False,34
+Rhine monkeys,mDXAqLhcg,A person of German descent.,True,,48.0,Rhine monkey,,True,False,False,False,False,False,False,0
+Rhineland bastard,rrhbJnwap,Afro-Germans whose parents were allegedly French soldiers,True,,89.0,,Rhine monkey,False,True,False,False,False,False,False,1
+Rhineland bastards,oreiumtuy,Afro-Germans whose parents were allegedly French soldiers,True,,100.0,Rhineland bastard,,False,True,False,False,False,False,False,39
+red niggers,EAQkLgarE,A Native American person,True,,100.0,red nigger,,False,True,False,False,False,False,False,3
+rednecks,jwhvUHvrx,Southern laborer-class whites.,True,,50.0,redneck,,False,False,False,False,False,False,True,1032
+retardeds,FFAVoXyAZ,"A disabled person, from 'retarded'.",True,,,retarded,,False,False,False,False,False,True,False,325
+retards,4UfKdVNHu,"A disabled person, from 'retarded'.",True,,51.0,retard,,False,False,False,False,False,True,False,783
+race traitors,mXCYFpPtr,Term used by white supremacists to denote a person of mixed race.,True,,75.0,race traitor,,False,True,False,False,False,False,False,309
+ragheads,tNVFoPbxr,"An Arab, Indian Sikh or other individual of Middle Eastern or South Asian descent wearing traditional headdress such as turbans or keffiyehs. Sometimes used generically for all Islamic nations.",True,,,raghead,,False,True,False,False,False,False,False,923
+quadroons,XdbsKZvHm,"A person who is 1/4 Black. Coined during the Civil War, referring to how White you had to be in order to serve in the army.",True,,75.0,quadroon,,False,True,False,False,False,False,False,260
+proddy dogs,kiqy2nqWV,"A Protestant, particularly a rival kid from a Protestant school. 'Proddywhoddy' and 'proddywoddy' are used in children's school rhymes in Cork",True,,,proddy dog,,False,False,True,False,False,False,False,32
+proddywhoddies,TGmkoWJUG,"A Protestant, particularly a rival kid from a Protestant school. 'Proddywhoddy' and 'proddywoddy' are used in children's school rhymes in Cork",True,,,proddywhoddy,,False,False,True,False,False,False,False,0
+proddywoddies,M4dXFdwgo,"A Protestant, particularly a rival kid from a Protestant school. 'Proddywhoddy' and 'proddywoddy' are used in children's school rhymes in Cork",True,,75.0,proddywoddy,,False,False,True,False,False,False,False,1
+prairie niggers,RCXciZTPB,A Native American.,True,,100.0,prairie nigger,,False,True,False,False,False,False,False,3
+porch monkeys,orsPoFXVf,A black person referring to perceived common behavior of groups hanging out on front porches or steps of urban apartment complexes in US cities.,True,,100.0,porch monkey,,False,True,False,False,False,False,False,694
+polacks,FFwomYhqT,"A Pole or a person of Polish or Slavic origin, from the Polish endonym, Polak (see Name of Poland).",True,,,polack,,True,False,False,False,False,False,False,287
+pommie grants,VTFeLZT u,"A British (usually English) immigrant. Some claim it derives from 'Prisoner of Mother England' or 'Prisoner of Her Majesty', but it probably derives from pomegranate, rhyming slang for 'immigrant'. It is often used irreverently and is usually considered offensive. Many such migrants to Australia, such as Prime Minister Julia Gillard, call themselves 'ten pound poms', because they paid ten pounds for their passage to Australia between 1945 and 1972 under an assisted migration scheme. Often combined with an adjective, particularly whingeing pom, a reference to migrants who complained about their adopted country. Often used in a sporting (especially cricket and rugby) context, with liberal use of 'pom' and 'Aussie' being used by the media; the term is often seen as unoffensive in this context, and instead as light-hearted banter by those who use it, but still possibly as offensive by those whom it is directed at.",True,,,pommie grant,,True,False,False,False,False,False,False,0
+pineapple niggers,j44sj7jka,A person of Hawaiian descent.,True,,100.0,pineapple nigger,,False,True,False,False,False,False,False,0
+plastic paddies,2psUtmiZx,A non-Irish person who claims to be Irish.,True,,,plastic paddy,,True,True,False,False,False,False,False,355
+pickaninnys,ZV2LkUXHj,Black children.,True,,,pickaninny,,False,True,False,False,False,False,False,6
+papists,K2CcWYV4H,"A Roman Catholic person, usually Irish Catholic.",True,,89.0,papist,,False,False,True,False,False,False,False,729
+pavement apes,nNepsTRQF,A black person,True,,,pavement ape,,False,True,False,False,False,False,False,44
+pancake faces,kFjZGTzof,An Asian person.,True,,,pancake face,,False,True,False,False,False,False,False,15
+oven dodgers,fotXhCrbw,"A Jew, alluding to one who escaped cremation during Holocaust.",True,,,oven dodger,,False,True,True,False,False,False,False,82
+Pakiland,z7PiZpfno,Pakistan,True,,93.0,,paki,True,False,False,False,False,False,False,363
+octaroons,iqAaXvQM3,A person who is 1/8th Black. Originated by the Spanish in the 14th/15th century as they were very exact in their racial classifications to determine a person's worth in society.,True,,,octaroon,,False,True,False,False,False,False,False,117
+octroons,xbyFKfunr,A person who is 1/8th Black. Originated by the Spanish in the 14th/15th century as they were very exact in their racial classifications to determine a person's worth in society.,True,,,octroon,,False,True,False,False,False,False,False,3
+ofays,QEdfrhBDA,"A white person, from Pig Latin for 'foe.'",True,,,ofay,,False,True,False,False,False,False,False,239
+niglette,oKdMBCPHH,Diminuitive of 'nigger',True,,87.0,,niglet,False,True,False,False,False,False,False,68
+nigguhs,oqBjEt7gp,A black person.,True,,100.0,nigguh,,False,True,False,False,False,False,False,1415
+niggurs,qMJsktvAb,A black person.,True,,,niggur,,False,True,False,False,False,False,False,1203
+niglets,hUzTGNQgZ,A black child.,True,,100.0,niglet,,False,True,False,False,False,False,False,1641
+niggerization,6iKGNeM4y,An increase in African-American / African influence,True,,98.0,,niggerize,False,True,False,False,False,False,False,50
+nigglets,zKndadqiP,A black child.,True,,,nigglet,,False,True,False,False,False,False,False,1387
+niggors,fzMvKVawe,A black person.,True,,,niggor,,False,True,False,False,False,False,False,34
+niggars,CCFEEWhwY,A black person.,True,,,niggar,,False,True,False,False,False,False,False,1151
+niggerettes,eccBs8hUq,Female diminuitive of 'nigger',True,,,niggerette,nigger,False,True,False,False,False,False,False,107
+nigers,dcDikdXKK,A black person.,True,,,niger,,False,True,False,False,False,False,False,131
+nigettes,bitygpivh,A black person.,True,,,nigette,,False,True,False,False,False,False,False,83
+nig nogs,tLDMMCQyK,A black person.,True,,,nig nog,,False,True,False,False,False,False,False,1363
+muzzies,qfWaLeczw,A Muslim.,True,,,muzzie,,False,False,True,False,False,False,False,827
+muzzpigs,wTsmc3wkk,Derogatory portmanteau of Muslim and 'pig',True,,48.0,muzzpig,,False,False,True,False,False,False,False,0
+muzzrats,UqToGpnbQ,Derogatory portmanteau of Muslim and 'rat',True,,,muzzrat,,False,False,True,False,False,False,False,105
+mud persons,tjU8YNGoD,White supremacist term for a black person.,True,,,mud person,,False,True,False,False,False,False,False,0
+mud sharks,orfvk2qLw,A Caucasian woman who dates a black man.,True,,,mud shark,,False,True,False,False,False,False,False,156
+mossheads,nRZyFbpbH,A black person.,True,,,mosshead,,False,True,False,False,False,False,False,7
+moon crickets,gvisfuzqy,A black person,True,,100.0,moon cricket,,False,True,False,False,False,False,False,370
+mongs,LgGsuRvLj,"A disabled person, from 'mongoloid'.",True,,,mong,,False,False,False,False,False,True,False,1061
+kykes,RgKpesbKk,"An Ashkenazi Jew. From kikel, Yiddish for 'circle'. Illiterate immigrant Jews signed legal documents with an 'O' (similar to an 'X').",True,,,kyke,,False,True,False,False,False,False,False,49
+latrinos,xWZARKnen,"In the USA a person of Latino descent, from 'latrine'. Extremely offensive.",True,,,latrino,,False,True,False,False,False,False,False,21
+kikes,MGzMRK4ZY,"An Ashkenazi Jew. From kikel, Yiddish for 'circle'. Illiterate immigrant Jews signed legal documents with an 'O' (similar to an 'X').",True,,,kike,,False,True,False,False,False,False,False,530
+kneegroes,njJBwuZkv,Alternative form of 'negro',True,,,kneegrow,,False,True,False,False,False,False,False,349
+jijjiboos,4igsctQFa,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,75.0,jijjiboo,,False,True,False,False,False,False,False,0
+jungle bunnys,LKvcfomLf,A black person.,True,,,jungle bunny,,False,True,False,False,False,False,False,8
+jiggaboos,otFbUJH8q,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,100.0,jiggaboo,,False,True,False,False,False,False,False,940
+jiggabos,3peywqgnR,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,,jiggabo,,False,True,False,False,False,False,False,3
+jigaboos,xQEQNYtap,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,100.0,jigaboo,,False,True,False,False,False,False,False,366
+jigaroonis,pp7uBGNmc,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,,jigarooni,,False,True,False,False,False,False,False,0
+jewbagg,RquVipLtB,Intentional misspelling of 'jewbag',True,,98.0,,jewbag,False,True,True,False,False,False,False,0
+Japs,EMPPYNEHP,"[1] A Japanese soldier or national, or anyone of Japanese descent. [2] Acronym for 'Jewish-American Princess.'",True,,25.0,Jap,,True,True,False,False,False,False,False,248
+jew-fucked,yhxcimfx4,One who has sexual relations with Jews,True,,99.0,,jew-fucker,False,True,True,False,False,False,False,0
+Japland,oWdJfbn7c,Japan,True,,86.0,,Jap,True,True,False,False,False,False,False,63
+island niggers,oTzVeiski,A Polynesian.,True,,,island nigger,,True,True,False,False,False,False,False,8
+injuns,ndZAAaibs,"A Native American, from 'Indian'.",True,,,injun,,False,True,False,False,False,False,False,669
+ice monkeys,xtVGK4Azt,A Finn.,True,,,ice monkey,,True,False,False,False,False,False,False,21
+ice niggers,iurmwna23,A black Canadian.,True,,,ice nigger,,True,True,False,False,False,False,False,1
+house niggers,NwpscyGwe,"As with Uncle Tom, a reference to a black person who is subservient to whites.",True,,,house nigger,,False,True,False,False,False,False,False,341
+honkeye,kThyFgTcR,Alternative spelling of 'honky',True,,72.0,,honky,False,True,False,False,False,False,False,2
+honkies,YCFgddEWV,"A white person. Derived from an African-American pronunciation of 'hunky', the disparaging term for a Hungarian laborer. The first record of its use as an insulting term for a white person dates from the 1950s.",True,,,honkie,,False,True,False,False,False,False,False,1020
+honklets,YumFKhFtp,The diminuitive of 'honky',True,,,honklet,,False,True,False,False,False,False,False,5
+higgers,XgPBKeADX,A Hindu person with preceived black mannerisms.,True,,50.0,higger,,False,True,True,False,False,False,False,221
+hebros,crzuyYivM,"A black Jew, from the combination of Hebrew and 'bro'.",True,,100.0,hebro,,False,True,True,False,False,False,False,23
+heebs,buLWvnacu,"A Jewish person, derived from the word 'Hebrew'.",True,,75.0,heeb,,False,True,True,False,False,False,False,315
+heinies,mMHLjyXgi,A person of German descent.,True,,75.0,heinie,,True,False,False,False,False,False,False,681
+halfricans,UaMJJWLTB,Denotes a person that is half African.,True,,100.0,halfrican,,False,True,False,False,False,False,False,54
+gypos,2DfRGnbHP,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,,gypo,,False,True,False,False,False,False,False,1033
+gyppies,ToQGANTDK,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,,gyppie,,False,True,False,False,False,False,False,1
+gyppos,gqdnoyLAN,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,,gyppo,,False,True,False,False,False,False,False,173
+groids,gCYTLHAKX,A black person. Derived from 'negroid'.,True,,,groid,,False,True,False,False,False,False,False,177
+golliwogs,QNHQoZdHD,"Originally a children's literary character and type of black doll, but eventually came to be used as a slur against people with dark skin, most commonly Afro-Caribbeans.",True,,,golliwog,,False,True,False,False,False,False,False,345
+gook eyes,PmbhWRHzs,"An Asian, especially an enemy soldier of Asian descent. Its use as an ethnic slur has been traced to US Marines serving in the Philippines in the early 20th century. The earliest recorded example is dated 1920. It gained widespread notice as a result of the Korean and Vietnam wars.",True,,,gook eye,,False,True,False,False,False,False,False,9
+gippos,ugMJzQipY,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,,gippo,,False,True,False,False,False,False,False,78
+gipps,ZZfMWT6wn,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,,gipp,,False,True,False,False,False,False,False,30
+gin jockeys,JQZ7GcAEW,"In Australia, a white person having casual sex with an Aboriginal woman. Pejorative.",True,,,gin jockey,,False,True,False,False,False,False,False,0
+ghetto hamsters,mcDQpJtgu,A black child.,True,,,ghetto hamster,,False,True,False,False,False,False,False,0
+fudgepackers,jcXUgWTAC,A homosexual who engages in anal sex,True,,50.0,fudgepacker,,False,False,False,True,True,False,False,205
+fog niggers,fVRHYCbiW,A black person of British nationality.,True,,,fog nigger,,True,True,False,False,False,False,False,0
+flipabeanos,BtriLbsvp,A person of Filipino and Mexican descent,True,,50.0,flipabeano,,True,False,False,False,False,False,False,1
+fagbags,zXBFzymma,A homosexual male,True,,,fagbag,,False,False,False,False,True,False,False,54
+faggots,GUPEp7JYD,A homosexual.,True,,92.0,faggot,,False,False,False,False,True,False,False,843
+faggy,q3EmqifRk,One expressing homosexually tendencies,True,,98.0,,fag,False,False,False,False,True,False,False,912
+dune coons,BEUT4DVDF,A person of Arab descent.,True,,,dune coon,,False,True,False,False,False,False,False,83
+dune niggers,NoQk9XdTB,A person of Arab descent.,True,,100.0,dune nigger,,False,True,False,False,False,False,False,0
+diaper heads,MGdgzpW4g,"An Arab, Indian Sikh or other individual of Middle Eastern or South Asian descent wearing traditional headdress such as turbans or keffiyehs. Sometimes used generically for all Islamic nations.",True,,,diaper head,,False,True,False,False,False,False,False,149
+dingo fuckers,uRaeEbRfW,An Australian,True,,,dingo fucker,,True,False,False,False,False,False,False,0
+darkies,MmBhnWLKJ,"A black person. The term may cause offense. though Randall Kennedy's Nigger: The Strange Career of a Troublesome Word notes that some judges have considered 'darky' a 'term of endearment.' In South Africa, it can be considered offensive (depending on the context), but is commonly used among black people to refer to other black people in a non-derogatory way.",True,,81.0,darkie,,False,True,False,False,False,False,False,520
+curry munchers,ehhnoRzTF,A person of East Indian origin.,True,,50.0,curry muncher,,False,True,False,False,False,False,False,609
+curry slurpers,zrhZMZafE,A person of East Indian origin.,True,,,curry slurper,,False,True,False,False,False,False,False,0
+curry stinkers,DLPonpCJ4,A person of East Indian origin.,True,,88.0,curry stinker,,False,True,False,False,False,False,False,0
+cowboy killers,bcaW2VQdy,A Native American.,True,,,cowboy killer,,False,True,False,False,False,False,False,597
+Congoids,YamaZMMop,Some concatenation of Congo and mongoloid,True,,,Congoid,,False,True,False,False,False,False,False,80
+coonadians,BtwLPDjMf,A Canadian of African descent; sometimes applied to aboriginals,True,,,coonadian,,False,True,False,False,False,False,False,1
+closetfags,trfXetFpQ,A person accused of being an homosexual,True,,,closetfag,,False,False,False,False,True,False,False,2
+closet fags,GsGjT2HZX,A person accused of being an homosexual,True,,,closet fag,,False,False,False,False,True,False,False,73
+Christ killers,apriiip9s,"A Jew, an allusion to Jewish deicide. On occasion it can also be used as an anti-Italian slur on the basis the Romans, as ancestors of the present-day Italians, executed Jesus.",True,,,Christ killer,,False,True,True,False,False,False,False,179
+cholo chasers,cHjLREGBN,A person who engages in relationships with hispanic individuals,True,,,cholo chaser,,False,True,False,False,False,False,False,0
+cholo chasing,gVHZD7Di ,A person who engages in relationships with Hispanic individuals,True,,90.0,,cholo chaser,False,True,False,False,False,False,False,0
+Chinamen,nay7NBvtA,"Found offensive, although it is a translation of the Chinese. It was used in the gold rush and railway-construction eras in western North America, when discrimination against Chinese was common.",True,,,Chinaman,,True,False,False,False,False,False,False,639
+Chinese wetbacks, 4cbPcsFY,"A Filipino, particularly having a Mexican and Chinese heritage.",True,,,Chinese wetback,,True,True,False,False,False,False,False,0
+ching chongs,gUtCt4dyz,"A person of perceived Chinese or East Asian descent. An offensive term that has raised considerable controversy, for example when used by comedian Rosie O'Donnell.",True,,75.0,ching chong,,False,True,False,False,False,False,False,802
+chink a billies,fMPZNgUoB,A rural person of Chinese descent.,True,,,chink a billy,,True,True,False,False,False,False,True,0
+chili shitters,YgBANPYBP,A person of Hispanic descent.,True,,,chili shitter,,False,True,False,False,False,False,False,0
+Caublasians,pVDyHLJRL,"A person of mixed Caucasian, African and Asian heritage",True,,,Caublasian,,False,True,False,False,False,False,False,0
+cave niggers,CEvRcrKqd,A person of Middle Eastern descent,True,,93.0,cave nigger,,False,True,False,False,False,False,True,2
+camel jockeys,qEbMYNEZb,Person of Middle Eastern descent.,True,,50.0,camel jockey,,False,True,False,False,False,False,False,515
+carpet pilots,RrxusHKmt,"A person of Arabic descent, from Aladdin and his magic carpet.",True,,,carpet pilot,,False,True,False,False,False,False,False,11
+cab niggers,NvRzsgfhK,"A person of Indian or Middle Eastern descent, based on the perceived surfeit of immigrants driving cabs in the United States.",True,,75.0,cab nigger,,False,True,False,False,False,False,False,1
+camel cowboys,LKz2wrx4P,Person of Middle Eastern descent.,True,,,camel cowboy,,False,True,False,False,False,False,False,1
+camel fuckers,kejmkgarG,[1] An Arab. [2] A Muslim.,True,,,camel fucker,,True,True,True,False,False,False,False,79
+camel humpers,wXPLxhX2g,Person of Middle Eastern descent.,True,,100.0,camel humper,,False,True,False,False,False,False,False,85
+camel jackers,CPgwXBBEf,Person of Middle Eastern descent.,True,,,camel jacker,,False,True,False,False,False,False,False,0
+burrheads,gmUQbqhNx,A black person (referencing stereotypical hair type).,True,,75.0,burrhead,,False,True,False,False,False,False,False,0
+butt pirates,dtxsPQeHW,A homosexual who engages in anal sex,True,,75.0,butt pirate,,False,False,False,True,True,False,False,526
+Buddhaheads,47LJCnwxe,An Asian. Also used by mainland Japanese Americans to refer to Hawaiian Japanese Americans since World War II.,True,,,Buddhahead,,False,True,False,False,False,False,False,4
+brown invader,vppczeurd,Accusative term for refugees or immigrants of darker complexion,True,,75.0,,black invader,False,True,False,False,False,False,False,12
+brown invaders,ahksavykw,Accusative term for refugees or immigrants of darker complexion,True,,75.0,brown invader,,False,True,False,False,False,False,False,67
+border niggers,FFRTQgFgB,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,100.0,border nigger,,False,True,False,False,False,False,False,0
+border bunnies,CsMJUAJZd,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,,border bunny,,False,True,False,False,False,False,False,13
+border hoppers,UhxDeasWz,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,,border hopper,,False,True,False,False,False,False,False,538
+border jumpers,BbYRko6KU,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,,border jumper,,False,True,False,False,False,False,False,710
+bog hoppers,CZoaPQfkm,A person of common or low class Irish ancestry.,True,,,bog hopper,,True,False,False,False,False,False,True,7
+bog jumpers,bWDAKxDbY,A person of common or low class Irish ancestry.,True,,38.0,bog jumper,,True,False,False,False,False,False,True,2
+bog trotters,hCzQckqLu,A person of common or low class Irish ancestry.,True,,100.0,bog trotter,,True,False,False,False,False,False,True,122
+blaxicans,P3GaZAtGq,A person of mixed Mexican and African ancestry,True,,44.0,blaxican,,True,True,False,False,False,False,False,59
+black dagos,yZ4zLcfXs,[1] A Sicilian [2] A darker-skinned Italian [3] An Italian of allegedly African ancestry,True,,,black dago,,True,True,False,False,False,False,False,0
+black invaders,yoAGYcwDn,Accusative term for refugees or immigrants of darker complexion,True,,,black invader,,False,True,False,False,False,False,False,9
+beaner shnitzels,KZaWfDssU,Offspring of a hispanic parent and a German parent,True,,,beaner shnitzel,,True,True,False,False,False,False,False,0
+beach niggers,chajwxwhX,An overly tanned Caucasian,True,,,beach nigger,,False,True,False,False,False,False,False,2
+beaner babies,oNHANQscn,An infant of hispanic descent,True,,86.0,,anchor baby,False,True,False,False,False,False,False,49
+beaner baby,temXUPiyk,An infant of hispanic descent,True,,96.0,,anchor babies,False,True,False,False,False,False,False,63
+banana benders,KZLFmdpfY,An Australian from Queensland,True,,1.0,banana bender,,True,False,False,False,False,False,False,18
+banana landers,iYwnzkVun,An Australian from Queensland,True,,,banana lander,,True,False,False,False,False,False,False,0
+bamboo coons,BiGrCzyJU,A person of Chinese ancestry,True,,,bamboo coon,,True,True,False,False,False,False,False,0
+anchor babies,dUzTUnsBR,"A child of illegal immigrants, particularly in the United States, from the notion of dropping an anchor for other family members to acquire citizenship",True,,62.0,anchor baby,,False,True,False,False,False,False,False,652
+Americoons,KeAHsWNKo,Combination of American and 'coon',True,,,Americoon,,False,True,False,False,False,False,False,10
+African catfishes,uK22Hwkqz,Referring to Muslims in Myanmar as an invasive species,True,,,African catfish,,False,True,True,False,False,False,False,0
+Africoons,rhjpYp2ee,Combination of African and 'coon'.,True,,89.0,Africoon,,False,True,False,False,False,False,False,126
+Afro-Saxons,2HZo9mCFi,Caucasian person who 'acts black',True,,,Afro-Saxon,,False,True,False,False,False,False,False,18
+ziojew,NtvpxgvMT,Derogatory term for a Jewish zionist or those being accused of such,True,,96.0,,,False,True,True,False,False,False,False,48
+yard ape,czQmdgfms,A black person,True,,99.0,,,False,True,False,False,False,False,False,76
+yellow invader,DAGYWQbgi,Accusative term for refugees or immigrants from Asia,True,,97.0,,,False,True,False,False,False,False,False,1
+whigga,RCAkVRfYf,A white person who is acting like a black person,True,,71.0,,,False,True,False,False,False,False,False,597
+tree nigger,KEZm8ckXa,A Native American person,True,,100.0,,,False,True,False,False,False,False,False,3
+suspook,VxcEzomv2,A black person suspected of a crime,True,,99.0,,,False,True,False,False,False,False,False,4
+taco nigger,Y9kqviVYq,An Hispanic person,True,,99.0,,,False,True,False,False,False,False,False,18
+sheboon,sXCcFRi2B,Combination of 'she' and 'baboon' to indicate a black woman,True,,99.0,,,False,True,False,False,False,False,False,361
+sand nip,Ln8VMqGCX,A person from the South Pacific,True,,99.0,,,False,True,False,False,False,False,False,0
+rice nigger,VKmAhQTR2,An Asian person,True,,93.0,,,False,True,False,False,False,False,False,14
+red nigger,HeThmckyy,A Native American person,True,,98.0,,,False,True,False,False,False,False,False,12
+pavement ape, tEKbCmzG,A black person,True,,98.0,,,False,True,False,False,False,False,False,80
+Palestinkian,eLqnd73CV,Childish slur for Palestinians,True,,48.0,,,True,False,False,False,False,False,False,3
+niggera,UyxRQXYGZ,Alternative use of the term 'nigger',True,,98.0,,,False,True,False,False,False,False,False,49
+niggerette,KZLFMFzqY,Female diminuitive of 'nigger',True,,98.0,,,False,True,False,False,False,False,False,19
+niggerfag,4geTZPV4f,A homosexual of African descent,True,,98.0,,,False,True,False,False,True,False,False,5
+niggerize,MhpsEBUGG,To increase African American / African influence,True,,98.0,,,False,True,False,False,False,False,False,58
+niggerwool,PwazibGyA,Describing the texture of African American hair,True,,98.0,,,False,True,False,False,False,False,False,0
+nigger-knock,RnVgazWDZ,Intimidation of black families by anonymous knocking on their front doors,True,,99.0,,,False,True,False,False,False,False,False,0
+nappyhead,MQGLHULja,Describing the texture of African American hair,True,,99.0,,,False,True,False,False,False,False,False,62
+muzzpig,wEYnsHwCX,Derogatory portmanteau of Muslim and 'pig',True,,94.0,,,False,False,True,False,False,False,False,1
+muzzrat,VtzBYjZGF,Derogatory portmanteau of Muslim and 'rat',True,,94.0,,,False,False,True,False,False,False,False,85
+muzzy,gZyFnochq,Perjorative diminuitive of Muslim,True,,83.0,,,False,False,True,False,False,False,False,269
+muslimal,sfCkhijyu,Derogatory portmanteau of Muslim and 'animal',True,,80.0,,,False,False,True,False,False,False,False,3
+kneegrow,DHWeAGvKd,Alternative form of 'negro',True,,99.0,,,False,True,False,False,False,False,False,664
+jewbag,bYNFmB8LF,A selfish or greedy Jew,True,,96.0,,,False,True,True,False,False,False,False,27
+jew-fucker,cRsYPQKdm,One who has sexual relations with Jews,True,,93.0,,,False,True,True,False,False,False,False,0
+honklet,eMDrkxqjs,The diminuitive of 'honky',True,,83.0,,,False,True,False,False,False,False,False,5
+fudgepacker,LaVFXPUYE,A homosexual who engages in anal sex,True,,69.0,,,False,False,False,True,True,False,False,277
+flipabeano,jdWVrzLjZ,A person of Filipino and Mexican descent,True,,70.0,,,True,False,False,False,False,False,False,0
+fagbag,cEBJ2nMNX,A homosexual male,True,,98.0,,,False,False,False,False,True,False,False,393
+derka derka,rknwZYjMw,Derogatory interpretation of the Arabic language; most often applied in contexts relating to the Middle East and North Africa or Muslims in general,True,,82.0,,,False,True,True,False,False,False,False,20
+dindu nuffin,pczCEQBNb,"A derogatory contraction of the words ""didn't do nothing,"" popularized as a slur against black people as a mockery of regional pronunciation",True,,98.0,,,False,True,False,False,False,False,False,818
+coonadian,3tKVVTwnL,A Canadian of African descent; sometimes applied to aboriginals,True,,99.0,,,False,True,False,False,False,False,False,11
+Congoid,VxcXGhGEJ,Some concatenation of Congo and mongoloid,True,,92.0,,,False,True,False,False,False,False,False,140
+cholo chaser,4G2wcQTWZ,A person who engages in relationships with hispanic individuals,True,,66.0,,,False,True,False,False,False,False,False,1
+butt pirate,JuXUP7M2s,A homosexual who engages in anal sex,True,,88.0,,,False,False,False,True,True,False,False,627
+black invader,4LmhMZKUi,Accusative term for refugees or immigrants of darker complexion,True,,82.0,,,False,True,False,False,False,False,False,26
+jigarooni,DRG6AYKm4,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,86.0,,jigaboo,False,True,False,False,False,False,False,2
+zigabo,FAwR2b4xm,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,73.0,,jigaboo,False,True,False,False,False,False,False,11
+border nigger,PkhMVy69W,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,98.0,,wetback,False,True,False,False,False,False,False,9
+dune nigger,axGdw9THv,A person of Arab descent.,True,,100.0,,sand nigger,False,True,False,False,False,False,False,14
+fog nigger,v6aUwuURh,A black person of British nationality.,True,,99.0,,,True,True,False,False,False,False,False,2
+cab nigger,qYwaax64w,"A person of Indian or Middle Eastern descent, based on the perceived surfeit of immigrants driving cabs in the United States.",True,,87.0,,,False,True,False,False,False,False,False,5
+Bog Irish,9VPR4zdq9,A person of common or low class Irish ancestry.,True,,66.0,,,True,False,False,False,False,False,True,123
+pineapple nigger,7zZa7JXXz,A person of Hawaiian descent.,True,,99.0,,,False,True,False,False,False,False,False,24
+gyppy,waBhvkh4u,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,90.0,,gyppo,False,True,False,False,False,False,False,22
+bog trotter,ndFMX7jTq,A person of common or low class Irish ancestry.,True,,83.0,,Bog Irish,True,False,False,False,False,False,True,367
+ice nigger,6zptJfZZh,A black Canadian.,True,,98.0,,,True,True,False,False,False,False,False,63
+shanty Irish,z8ayW3CfA,A poor or disenfranchised person of Irish descent.,True,,59.0,,,True,True,False,False,False,False,False,287
+tranny,qXnWu4Xw8,"Pejorative term which is shortened from either transgendered, transsexual or transvestite. May be used to refer to these individuals, or others, in a derogatory or offensive manner.",True,,74.0,,,False,False,False,True,True,False,False,3445
+shemale,vRUCf4b9p,[1] A transexual person. [2] A transgendered person. [3] An allegedly masculine woman.,True,,96.0,,,False,False,False,True,True,False,False,3808
+niggar,eUq4VPh6h,A black person.,True,,99.0,,nigger,False,True,False,False,False,False,False,4160
+darkie,jYqw27BMx,"A black person. The term may cause offense. though Randall Kennedy's Nigger: The Strange Career of a Troublesome Word notes that some judges have considered 'darky' a 'term of endearment.' In South Africa, it can be considered offensive (depending on the context), but is commonly used among black people to refer to other black people in a non-derogatory way.",True,,81.0,,darky,False,True,False,False,False,False,False,3530
+Christ killer,6hCjv3qHW,"A Jew, an allusion to Jewish deicide. On occasion it can also be used as an anti-Italian slur on the basis the Romans, as ancestors of the present-day Italians, executed Jesus.",True,,93.0,,,False,True,True,False,False,False,False,312
+cotton picker,4m74BQfBX,Originates from pre-Civil War US. Refers to the slaves who picked cotton all day at the plantations.,True,,74.0,,,False,True,False,False,False,False,False,4658
+jijjiboo,TWVUM7xdk,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,86.0,,jigaboo,False,True,False,False,False,False,False,0
+house nigger,HP8tddveZ,"As with Uncle Tom, a reference to a black person who is subservient to whites.",True,,98.0,,,False,True,False,False,False,False,False,2943
+octaroon,T2RDQb6xa,A person who is 1/8th Black. Originated by the Spanish in the 14th/15th century as they were very exact in their racial classifications to determine a person's worth in society.,True,,81.0,,octroon,False,True,False,False,False,False,False,962
+curry stinker,PFnJ6FkJa,A person of East Indian origin.,True,,86.0,,curry muncher,False,True,False,False,False,False,False,7
+white nigger,D6Jtu6NYX,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,99.0,,,True,True,False,False,False,False,False,138
+sideways pussy,uAuJGgQ9f,"An Asian woman, particularly of Chinese descent.",True,,88.0,,sideways vagina,True,True,False,False,False,False,False,281
+eyetie,9RbmyaNJr,An Italian person. Originated through the mispronunciation of 'Italian' as 'Eye-talian.',True,,81.0,,,True,True,False,False,False,False,False,215
+proddy dog,64mQJ3KAE,"A Protestant, particularly a rival kid from a Protestant school. 'Proddywhoddy' and 'proddywoddy' are used in children's school rhymes in Cork",True,,84.0,,prod,False,False,True,False,False,False,False,57
+prairie nigger,H8g8GZ4Ax,A Native American.,True,,98.0,,,False,True,False,False,False,False,False,128
+coon ass,ZGgc8Fan8,A person of Cajun ethnicity.,True,,72.0,,,False,True,False,False,False,False,False,3486
+moulie,3K3zQvqm9,"A black person, used by Italians in US. It is a corruption of melanzane, the Italian word for eggplant.",True,,89.0,,,False,True,False,False,False,False,False,357
+sideways vagina,7y2VTFXCn,"An Asian woman, particularly of Chinese descent.",True,,94.0,,,True,True,False,False,False,False,False,633
+camel humper,fz6E48ehr,Person of Middle Eastern descent.,True,,95.0,,camel jockey,False,True,False,False,False,False,False,352
+wagon burner,UbKAZ2J3B,A Native American person.,True,,87.0,,,False,True,False,False,False,False,False,322
+moulignon,Wzwy99PA8,"A black person, used by Italians in US. It is a corruption of melanzane, the Italian word for eggplant.",True,,89.0,,moulie,False,True,False,False,False,False,False,86
+border bunny,7BtqnhDHy,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,85.0,,wetback,False,True,False,False,False,False,False,111
+dune coon,qb2KqVgnC,A person of Arab descent.,True,,99.0,,sand nigger,False,True,False,False,False,False,False,1199
+border jumper,JfzXrQr7x,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,82.0,,wetback,False,True,False,False,False,False,False,1812
+gippo,N4DyxwBHg,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,97.0,,gyppo,False,True,False,False,False,False,False,1366
+gyppo,EZKArmFB3,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,90.0,,,False,True,False,False,False,False,False,2144
+touch of the tar brush,tP4pHEaRC,A person of predominantly Caucasian ancestry with real or suspected African or Asian distant ancestry.,True,,90.0,,,False,True,False,False,False,False,False,339
+muzzie,b7PHp7TKN,A Muslim.,True,,84.0,,,False,False,True,False,False,False,False,5288
+nigglet,cyx7mvDEF,A black child.,True,,99.0,,niglet,False,True,False,False,False,False,False,4240
+niggur,WeZJrBa82,A black person.,True,,99.0,,nigger,False,True,False,False,False,False,False,5977
+niglet,tTWJV3kr3,A black child.,True,,99.0,,,False,True,False,False,False,False,False,4032
+pickaninny,jh3mcgDeW,Black children.,True,,97.0,,,False,True,False,False,False,False,False,1393
+Chinaman,XZCB3fVua,"Found offensive, although it is a translation of the Chinese. It was used in the gold rush and railway-construction eras in western North America, when discrimination against Chinese was common.",True,,72.0,,,True,False,False,False,False,False,False,3241
+border hopper,P6gZG7Tcf,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,85.0,,wetback,False,True,False,False,False,False,False,1330
+camel jockey,WjRbvuV3r,Person of Middle Eastern descent.,True,,80.0,,,False,True,False,False,False,False,False,3100
+curry muncher,x9dnZhTqw,A person of East Indian origin.,True,,74.0,,,False,True,False,False,False,False,False,3568
+spear chucker,jY6nXuhkC,"A term used for an African American, or other person of African descent.",True,,87.0,,,False,True,False,False,False,False,False,1522
+sand nigger,D29BRfCeD,"Derogatory term for a person from the Middle East, Arab, South Asian world",True,,100.0,,,True,True,False,False,False,False,False,5377
+slant eye,3W7xBnyHz,"A person of Asian origin (Chinese, Japanese, Korean, Vietnamese etc.) Derived from the term for those who have epicanthic folds.",True,,93.0,,slant,False,True,False,False,False,False,False,907
+gypo,p2Q4DVrg2,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,90.0,,gyppo,False,True,False,False,False,False,False,6161
+gyppie,XXdW2zZkG,"[1] A Romani people. [2] Egyptians. These are variations of 'Gypsy', the most common word in English for people of Romani origin. 'Gypsy' is not in itself an ethnic slur but its usage is sometimes controversial.",True,,90.0,,gyppo,False,True,False,False,False,False,False,5
+halfrican,EtUbqU7PQ,Denotes a person that is half African.,True,,81.0,,,False,True,False,False,False,False,False,187
+honkie,aMp264eJn,"A white person. Derived from an African-American pronunciation of 'hunky', the disparaging term for a Hungarian laborer. The first record of its use as an insulting term for a white person dates from the 1950s.",True,,71.0,,honky,False,True,False,False,False,False,False,3260
+spigger,WVqQvFzk6,A person of mixed Hispanic and black parentage.,True,,100.0,,spickaboo,False,True,False,False,False,False,False,114
+hymie,Dqfdv8tFE,"A Jewish person, derived from the personal name Hyman (from the Hebrew name Chayyim). Jesse Jackson provoked controversy by referring to New York City as 'Hymietown' in 1984.",True,US,72.0,,,False,True,True,False,False,False,False,618
+nicca,cA7nT7xG8,A black person.,True,,89.0,,nigger,False,True,False,False,False,False,False,4518
+moon cricket,V2vVDr4n9,A black person,True,,86.0,,,False,True,False,False,False,False,False,2817
+jiggaboo,9VY2n2aKw,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,99.0,,jigaboo,False,True,False,False,False,False,False,3344
+timber nigger,n2Ry3Y9DQ,A Native American.,True,,100.0,,,False,True,False,False,False,False,False,18
+darky,4yMfGkZxX,"A black person. The term may cause offense. though Randall Kennedy's Nigger: The Strange Career of a Troublesome Word notes that some judges have considered 'darky' a 'term of endearment.' In South Africa, it can be considered offensive (depending on the context), but is commonly used among black people to refer to other black people in a non-derogatory way.",True,,97.0,,,False,True,False,False,False,False,False,1020
+jungle bunny,dVEFpbV6b,A black person.,True,,87.0,,,False,True,False,False,False,False,False,2066
+whigger,eqQYWFny7,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,88.0,,white nigger,True,True,False,False,False,False,False,1620
+wigga,J7dPE7gev,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,99.0,,white nigger,True,True,False,False,False,False,False,4256
+wigger,D46u6GJ24,"[1] Used in 19th-century United States to refer to the Irish. [2] Sometimes used today in reference to white people in a manner similar to white trash or redneck. [3] Also refers to white youth that imitate urban black youth by means of clothing style, mannerisms, and slang speech. The 'w' at the start of wigger refers to the white person and the 'igger' refers to nigger, which is a racial slur for black people. [4] Also used by radical Quebecois in self-reference, as in the seminal 1968 book White Niggers of America.",True,,99.0,,white nigger,True,True,False,False,False,False,False,4444
+wexican,qNw68xaxX,A person of mixed Caucasian and Mexican parentage.,True,,71.0,,,True,True,False,False,False,False,False,383
+island nigger,wdgYa6nht,A Polynesian.,True,,97.0,,,True,True,False,False,False,False,False,88
+jiggabo,UDB92XuV4,"A black person. Jiggaboo or jigabo is from a Bantu verb tshikabo, meaning meek or servile.",True,,86.0,,jigaboo,False,True,False,False,False,False,False,231
+race traitor,RKktUbpr4,Term used by white supremacists to denote a person of mixed race.,True,,87.0,,,False,True,False,False,False,False,False,2869
+nig nog,6mq9NRfPf,A black person.,True,,99.0,,nigger,False,True,False,False,False,False,False,4448
+niger,NwzFp2ZbW,A black person.,True,,99.0,,nigger,False,True,False,False,False,False,False,67
+nigguh,enGXBUA3V,A black person.,True,,99.0,,nigger,False,True,False,False,False,False,False,4277
+niggress,UkbYtD9jt,A black person.,True,,100.0,,nigger,False,True,False,False,False,False,False,2096
+nigette,gp9GeB6dv,A black person.,True,,99.0,,nigger,False,True,False,False,False,False,False,289
+quadroon,9wj2Fag7e,"A person who is 1/4 Black. Coined during the Civil War, referring to how White you had to be in order to serve in the army.",True,,81.0,,,False,True,False,False,False,False,False,2345
+towel head,Up9gK6aZy,"An Arab, Indian Sikh or other individual of Middle Eastern or South Asian descent wearing traditional headdress such as turbans or keffiyehs. Sometimes used generically for all Islamic nations.",True,,99.0,,raghead,False,True,False,False,False,False,False,624
+faggot,9Qc3vmvaE,A homosexual.,True,,93.0,,fag,False,False,False,False,True,False,False,4930
+spice nigger,BJV7BT7vV,A black person.,True,,100.0,,nigger,False,True,False,False,False,False,False,9
+wetback,T6Hk8NDNf,"A person of Latino descent, particularly a Mexican migrant laborer.",True,,99.0,,,False,True,False,False,False,False,False,3067
+guala,kejjB2C7Q,"A person who's overt about his/her Hispanic descent, particularly a Dominican",True,,86.0,,,True,True,False,False,False,False,False,2241
