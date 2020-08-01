@@ -5,12 +5,12 @@ Supervisor: Tony Veale
 
 SETUP 
 
-While the full Hatebase API is included in the repository for easy use, if you wish to redownload the Hatebase API yourself you will need to contact them in order to be given a API key which you can use to access the API.  
+While the full Hatebase API is included in the repository for easy use, if you wish to redownload the Hatebase API yourself you will need to contact them in order to be given a API key which you can use to access the API. Due to my license with them, I am sadly not able to publish my own downloaded copy of their data to a public service like GitHub. The rest of this project is able to be published however. 
 
 To use the Stanford NLP Client the repository uses, you will need to do the following: 
 1. Have Java installed on your system and the Path environment variable pointing to where it is installed.  
 2. Install the Levenshtein module to your Python environment with: pip install python-Levenshtein
-3. If you wish to download Davidson’s test data yourself instead of use the included copy, you can do so at his GitHub repository (note: it is no longer actively maintained):
+3. If you wish to download Davidsonâ€™s test data yourself instead of use the included copy, you can do so at his GitHub repository (note: it is no longer actively maintained):
 https://github.com/t-davidson/hate-speech-and-offensive-language 
 4. While the amplifiers list has been custom made for this project, a large portion of it comes from a list of swear words located here: 
 https://www.noswearing.com/dictionary
@@ -32,9 +32,9 @@ Once in a .csv format, the notebook splits the database into two easily usable c
 The final part of the notebook also trims the amplifier list to make sure there are no duplicate terms already contained in the data recorded from the Hatebase API. 
 
 DavidsonData: 
-This notebook takes the data obtained from Davidson’s work (which includes nearly 25,000 sample tweets and crowd ratings for each split into hate speech, offensive speech, or neither) and cleans it. 
+This notebook takes the data obtained from Davidsonâ€™s work (which includes nearly 25,000 sample tweets and crowd ratings for each split into hate speech, offensive speech, or neither) and cleans it. 
 The code removes all user tags from twitter, ascii codes for emojis, as well as some discrepancies unique to these samples.  The cleaned data is then exported to a csv to be used as our samples.  
-The end of the notebook splits the data into a few smaller sample sizes, largely based on what category the data was originally given in Davidson’s work by the crowd workers. 
+The end of the notebook splits the data into a few smaller sample sizes, largely based on what category the data was originally given in Davidsonâ€™s work by the crowd workers. 
 
 Core NLP Raw: 
 This notebook is the meat of the project.  First are some custom functions used to save lines of code, as well as make things simpler to understand. 
